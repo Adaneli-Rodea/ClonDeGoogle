@@ -4,7 +4,7 @@
 
 * [Intro] 
 * [Qué construí?] 
-* [Objeivo del proyecto] 
+* [Objetivo del proyecto] 
 
 ****
 
